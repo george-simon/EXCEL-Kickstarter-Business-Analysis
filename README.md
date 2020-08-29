@@ -27,7 +27,7 @@ What are some limitations of this dataset?
 1. You have to manual filter to follow a hunch or assumption in the various pivot
 tables.
 1. The ability to investigate the ‘why’ behind trends over time is limited by the
-dataset provided. For example why do projects created in the month of February
+dataset provided. For example, why do projects created in the month of February
 see a spike in success and a drop in failed states?
 
 What are some other possible tables and/or graphs that we could create?
